@@ -1,16 +1,83 @@
-### Hi there 👋
+<div>
+    <h1 align='center'> Hello... I'm Roshad</h1>
+    <p align='center'> Android & Front-End Developer</u></p>
+    
+  </br>
+     
+  <p align='center'>
+  <a href="https://roshadguerrier.com"><img height="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/roshadgu"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/roshadgu/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>&nbsp;&nbsp;
 
-<!--
-**Roshadgu/Roshadgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<div align='center'>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Website](https://img.shields.io/website?label=roshadguerrier.com&style=for-the-badge&url=https%3A%2F%2Fjackevans.dev)](https://roshadguerrier.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/roshadgu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjackevans_dev&screen_name=jackevans_dev)
+
+</div>
+</br>
+
+<!-- ABOUT:START -->
+
+<div align='center'>
+<h3>Designer & Developer</h3>
+
+<p>🎓 BS Degree in Computer Science</p>
+<p>🌱 I’m currently learning everything 🤣</p>
+<p>👯 I’m looking to work with and learn from other developers</p>
+<p>🥅 Goals: Contribute more to Open Source projects</p>
+<p>⚡ Fun fact: I love longboarding 🏈 and gaming 🎮 </p>
+
+</div>
+<!-- ABOUT:END -->
+
+<br />
+
+---
+
+<br />
+
+<div align='center'>
+<h3>Languages and Tools</h3>
+</br>
+<img alt="Kotlin" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+</br>
+</br>
+<img alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/c-plus-plus/c-plus-plus.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+</br>
+</br>
+<img alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Bootstrap" width="50px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/bootstrap/bootstrap.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+</br>
+</br>
+<img alt="android" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+</div>
+</br>
+
+---
+
+<div align='center'>
+  <div align='center'>
+  <div align='center'>
+  <img alt="Roshad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roshadgu&show_icons=true&hide_border=true"/>
+</div>
+</div>
+</div>
+
+[website]: https://www.roshadguerrier.com
+[twitter]: https://twitter.com/roshadgu
+[linkedin]: https://www.linkedin.com/in/roshadgu
