@@ -73,14 +73,6 @@
 </div>
 </div>
 
-<br/>
-
----
-<img alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
-
-<br/>
-
-
 [website]: https://www.roshadguerrier.com
 [twitter]: https://twitter.com/roshadgu
 [linkedin]: https://www.linkedin.com/in/roshadgu
