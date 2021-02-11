@@ -1,7 +1,6 @@
 <div>
     <h1 align='center'> Hi! I'm Roshad</h1>
     <p align='center'> Android & Front-End Developer</u></p>
-    
   </br>
      
   <p align='center'>
@@ -22,22 +21,22 @@
 <!-- ABOUT:START -->
 
 <div align='center'>
-<h3>Designer & Developer</h3>
+<h3>Hobbyist & Developer</h3>
 
 <p>🎓 BS Degree in Computer Science</p>
 <p>🌱 I’m currently learning everything 🤣</p>
 <p>👯 I’m looking to work with and learn from other developers</p>
-<p>🥅 Goals: Contribute more to Open Source projects</p>
+<p>🥅 Goal: Contribute more to Open Source projects</p>
 <p>⚡ Fun fact: I love longboarding and gaming 🎮 </p>
 
 </div>
 <!-- ABOUT:END -->
 
-<br />
+<br/>
 
 ---
 
-<br />
+<br/>
 
 <div align='center'>
 <h3>Languages and Tools</h3>
@@ -57,7 +56,7 @@
 <img alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </br>
 
