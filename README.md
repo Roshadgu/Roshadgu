@@ -23,8 +23,10 @@
 <div align='center'>
 <h3>Hobbyist & Developer</h3>
 
-<img alt="Android Me" width="500px" height="500px" src="images/Octocat.png"/>
-<img alt="Android Me" width="500px" height="500px" src="images/roshad3.gif"/>
+<div style= "display: flex">
+<img style= "float: right;" alt="Android Me" width="500px" height="500px" src="images/Octocat.png"/>
+<img style= "float: left;" alt="Android Me" width="500px" height="500px" src="images/roshad3.gif"/>
+</div>
 
 <p>🎓 BS Degree in Computer Science</p>
 <p>🤔 I’m currently learning React and Jetpack Compose🚀</p>
