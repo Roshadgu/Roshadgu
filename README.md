@@ -2,7 +2,7 @@
     <h1 align='center'> Hi! I'm Roshad</h1>
     <p align='center'> Android & Front-End Developer</u></p>
   </br>
-     
+
   <p align='center'>
   <a href="https://roshadguerrier.com"><img height="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/roshadgu"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;&nbsp;
@@ -24,7 +24,7 @@
 <h3>Hobbyist & Developer</h3>
 
 <img alt="Android Me" width="500px" height="500px" src="images/Octocat.png"/>
-<img alt="Android Me" width="500px" height="500px" src="images/roshad2.gif"/>
+<img alt="Android Me" width="500px" height="500px" src="images/roshad3.gif"/>
 
 <p>🎓 BS Degree in Computer Science</p>
 <p>🤔 I’m currently learning React and Jetpack Compose🚀</p>
