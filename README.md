@@ -23,8 +23,11 @@
 <div align='center'>
 <h3>Hobbyist & Developer</h3>
 
+<img alt="Android Me" width="500px" height="500px" src="Roshadgu/Octocat.png"/>
+<img alt="Android Me" width="500px" height="500px" src="https://pics-for-github.s3.us-east-2.amazonaws.com/roshad2.gif"/>
+
 <p>🎓 BS Degree in Computer Science</p>
-<p>🌱 I’m currently learning everything 🤣</p>
+<p>🤔 I’m currently learning React and Jetpack Compose🚀</p>
 <p>👯 I’m looking to work with and learn from other developers</p>
 <p>🥅 Goal: Contribute more to Open Source projects</p>
 <p>⚡ Fun fact: I love longboarding and gaming 🎮 </p>
@@ -69,6 +72,14 @@
 </div>
 </div>
 </div>
+
+<br/>
+
+---
+<img alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
+
+<br/>
+
 
 [website]: https://www.roshadguerrier.com
 [twitter]: https://twitter.com/roshadgu
