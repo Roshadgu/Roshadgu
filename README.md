@@ -23,8 +23,8 @@
 <div align='center'>
 <h3>Hobbyist & Developer</h3>
 
-<img alt="Android Me" width="500px" height="500px" src="Roshadgu/Octocat.png"/>
-<img alt="Android Me" width="500px" height="500px" src="https://pics-for-github.s3.us-east-2.amazonaws.com/roshad2.gif"/>
+<img alt="Android Me" width="500px" height="500px" src="images/Octocat.png"/>
+<img alt="Android Me" width="500px" height="500px" src="images/roshad2.gif"/>
 
 <p>🎓 BS Degree in Computer Science</p>
 <p>🤔 I’m currently learning React and Jetpack Compose🚀</p>
