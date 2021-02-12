@@ -24,8 +24,8 @@
 <h3>Hobbyist & Developer</h3>
 
 <div style= "display: flex">
-<img style= "float: right;" alt="Android Me" width="500px" height="500px" src="images/Octocat.png"/>
-<img style= "float: left;" alt="Android Me" width="500px" height="500px" src="images/roshad3.gif"/>
+<img style= "float: right; margin-left: 55px" height="400" width="400" alt="Android Me" width="500px" height="500px" src="images/Octocat.png"/>
+<img style= "float: left;" height="400" width="400" alt="Android Me" width="500px" height="500px" src="images/roshad3.gif"/>
 </div>
 
 <p>🎓 BS Degree in Computer Science</p>
