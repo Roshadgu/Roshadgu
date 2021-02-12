@@ -1,6 +1,6 @@
 <div>
     <h1 align='center'> Hi! I'm Roshad</h1>
-    <p align='center'> Android & Front-End Developer</u></p>
+    <h4 align='center'> Android & Front-End Developer</u></h4>
   </br>
 
   <p align='center'>
@@ -36,13 +36,11 @@
 
 </div>
 <!-- ABOUT:END -->
-
 <br/>
 
 ---
 
 <br/>
-
 <div align='center'>
 <h3>Languages and Tools</h3>
 </br>
