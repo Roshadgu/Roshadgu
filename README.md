@@ -25,7 +25,7 @@
 
 <div style= "display: flex">
 <img style= "float: right; margin-left: 55px; margin-top: -10px" height="400" width="400" alt="Android Me" width="500px" height="500px" src="images/Octocat.png"/>
-<img style= "float: left;" height="400" width="400" alt="Android Me" width="500px" height="500px" src="images/roshad3.gif"/>
+<img style= "float: left;" height="400" width="400" alt="Android Me" width="500px" height="500px" src="images/roshad4.gif"/>
 </div>
 
 <p>🎓 BS Degree in Computer Science</p>
