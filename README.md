@@ -1,10 +1,10 @@
 <div>
     <h1 align='center'> Hi! I'm Roshad</h1>
     <h4 align='center'> Android & Front-End Developer</u></h4>
-  </br>
+</br>
 
   <p align='center'>
-  <a href="https://roshadguerrier.com"><img height="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>&nbsp;&nbsp;
+  <a href="http://roshadguerrier.com"><img height="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/roshadgu"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/roshadgu/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>&nbsp;&nbsp;
 
@@ -12,7 +12,7 @@
 
 <div align='center'>
 
-[![Website](https://img.shields.io/website?label=roshadguerrier.com&style=for-the-badge&url=https%3A%2F%2Froshadguerrier.com)](https://roshadguerrier.com)
+[![Website](http://img.shields.io/website?label=roshadguerrier.com&style=for-the-badge&url=http%3A%2F%2Froshadguerrier.com)](http://roshadguerrier.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/roshadgu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Froshadgu&screen_name=roshadgu)
 
 </div>
@@ -32,7 +32,7 @@
 <p>🤔 I’m currently learning React and Jetpack Compose🚀</p>
 <p>👯 I’m looking to work with and learn from other developers 💻</p>
 <p>🥅 Goal: Contribute more to Open Source projects</p>
-<p>⚡ Fun fact: I love longboarding🛹 and gaming 🎮 </p>
+<p>⚡ Fun fact: I love longboarding🛹 and gaming 🎮</p>
 
 </div>
 <!-- ABOUT:END -->
