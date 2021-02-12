@@ -30,9 +30,9 @@
 
 <p>🎓 BS Degree in Computer Science</p>
 <p>🤔 I’m currently learning React and Jetpack Compose🚀</p>
-<p>👯 I’m looking to work with and learn from other developers</p>
+<p>👯 I’m looking to work with and learn from other developers 💻</p>
 <p>🥅 Goal: Contribute more to Open Source projects</p>
-<p>⚡ Fun fact: I love longboarding and gaming 🎮 </p>
+<p>⚡ Fun fact: I love longboarding🛹 and gaming 🎮 </p>
 
 </div>
 <!-- ABOUT:END -->
