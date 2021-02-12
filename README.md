@@ -12,8 +12,8 @@
 
 <div align='center'>
 
-[![Website](https://img.shields.io/website?label=roshadguerrier.com&style=for-the-badge&url=https%3A%2F%2Fjackevans.dev)](https://roshadguerrier.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/roshadgu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjackevans_dev&screen_name=jackevans_dev)
+[![Website](https://img.shields.io/website?label=roshadguerrier.com&style=for-the-badge&url=https%3A%2F%2Froshadguerrier.com)](https://roshadguerrier.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/roshadgu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Froshadgu&screen_name=roshadgu)
 
 </div>
 </br>
