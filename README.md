@@ -1,13 +1,15 @@
 <div>
-    <h1 align='center'> Hi! I'm Roshad</h1>
-    <h4 align='center'> Android & Front-End Developer</u></h4>
+    <h1 align='center'> Hi 👋! I'm Roshad</h1>
+    <h3 align='center'> Android & Front-End Developer</u></h4>
 </br>
 
   <p align='center'>
+  <h3>Connect with me:</h3>
   <a href="http://roshadguerrier.com"><img height="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/roshadgu"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/roshadgu/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>&nbsp;&nbsp;
-
+  </p>
+ 
 </div>
 
 <div align='center'>
@@ -24,15 +26,14 @@
 <h3>Hobbyist & Developer</h3>
 
 <div style= "display: flex">
-<img style= "float: right; margin-left: 55px; margin-top: -10px" height="400" width="400" alt="Android Me" width="500px" height="500px" src="images/Octocat.png"/>
-<img style= "float: left;" height="400" width="400" alt="Android Me" width="500px" height="500px" src="images/roshad4.gif"/>
-</div>
 
-<p>🎓 BS Degree in Computer Science</p>
-<p>🤔 I’m currently learning React and Jetpack Compose🚀</p>
-<p>👯 I’m looking to work with and learn from other developers 💻</p>
-<p>🥅 Goal: Contribute more to Open Source projects</p>
-<p>⚡ Fun fact: I love longboarding🛹 and gaming 🎮</p>
+<span style="font-size:larger;">
+    <p>🎓 BS Degree in Computer Science 🎓</p>
+    <p>🤔 I’m currently learning React and Jetpack Compose🚀</p>
+    <p>👯 I’m looking to work with and learn from other developers 💻</p>
+    <p>🥅 Goal: Contribute more to Open Source projects 🥅</p>
+    <p>⚡ Fun fact: I love longboarding🛹 and gaming 🎮</p>
+</span>
 
 </div>
 <!-- ABOUT:END -->
@@ -65,9 +66,12 @@
 
 ---
 
-<div align='center'>
   <div align='center'>
   <div align='center'>
+  <div align='center'>
+      
+  <a href="https://github.com/roshadgu/roshadgu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshadgu&amp;title_color=24292e&amp;text_color=24292e&amp;icon_color=24292e&amp;bg_color=ffffff"/>
+  </a>
   <img alt="Roshad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roshadgu&show_icons=true&hide_border=true"/>
 </div>
 </div>
