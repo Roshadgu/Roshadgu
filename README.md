@@ -8,7 +8,6 @@
   <a href="http://roshadguerrier.com"><img height="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/roshadgu"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/roshadgu/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>&nbsp;&nbsp;
-  </p>
  
 </div>
 
@@ -70,9 +69,10 @@
   <div align='center'>
   <div align='center'>
       
-  <a href="https://github.com/roshadgu/roshadgu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshadgu&amp;title_color=24292e&amp;text_color=24292e&amp;icon_color=24292e&amp;bg_color=ffffff"/>
-  </a>
-  <img alt="Roshad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roshadgu&show_icons=true&hide_border=true"/>
+  <a href="https://github.com/roshadgu/roshadgu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshadgu&amp;title_color=24292e&amp;text_color=24292e&amp;icon_color=24292e&amp;bg_color=ffffff"/></a>
+  <a href="https://github.com/roshadgu/roshadgu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=roshadgu&show_icons=true&hide_border=true"/></a><br/>  
+      
+
 </div>
 </div>
 </div>
