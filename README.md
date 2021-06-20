@@ -29,7 +29,7 @@
 </p>
 
 <div style= "display: flex">
-<hr/>
+
 <br/>
 
 <span style="font-size:larger;">
@@ -43,11 +43,8 @@
 <!-- ABOUT:END -->
 <br/>
 
----
-
-<br/>
 <div align='center'>
-<h3>Languages and Tools</h3>
+<h2 align ='left'>🧰Languages and Tools</h2>
 </br>
 <img alt="Kotlin" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Java" width="50px" src="https://img.icons8.com/ios-filled/50/000000/java-coffee-cup-logo--v1.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -66,14 +63,11 @@
 <img alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-</br>
-
----
 
   <div align='center'>
-  <div align='center'>
-  <div align='center'>
+ 
       
+  <h2 align="left">📈 GitHub Stats</h2>
   <a href="https://github.com/roshadgu/roshadgu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshadgu&amp;title_color=24292e&amp;text_color=24292e&amp;icon_color=24292e&amp;bg_color=ffffff"/></a>
   <a href="https://github.com/roshadgu/roshadgu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=roshadgu&show_icons=true&hide_border=true"/></a><br/>  
       
