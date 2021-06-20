@@ -1,10 +1,8 @@
 <div>
-    <h1 align='center'> Hi 👋! I'm Roshad</h1>
+    <h1 align='center'> Hi👋! I'm Roshad</h1>
     <h3 align='center'> Android & Front-End Developer</u></h4>
-</br>
-
+  <h3 align='center'>Connect with me:</h3>
   <p align='center'>
-  <h3>Connect with me:</h3>
   <a href="http://roshadguerrier.com"><img height="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/roshadgu"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/roshadgu/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>&nbsp;&nbsp;
@@ -21,17 +19,24 @@
 
 <!-- ABOUT:START -->
 
-<div align='center'>
-<h3>Hobbyist & Developer</h3>
+<div>
+    
+<h2>About Me: </h2>
+    
+<p>Welcome to my GitHub profile! <br/>I am Roshad,  <b>Software Developer</b> living in NJ.</p>
+<p>I love all things tech and software, and am specialized in Android📱. 
+  I longboard🛹 around the concrete jungle of NY🗽, and trails in NJ🏡, love to play video games🎮 and I'm also an amauter guitarist🎸.
+</p>
 
 <div style= "display: flex">
+<hr/>
+<br/>
 
 <span style="font-size:larger;">
     <p>🎓 BS Degree in Computer Science 🎓</p>
-    <p>🤔 I’m currently learning React and Jetpack Compose🚀</p>
+    <p>🤔 I’m currently learning React and Jetpack Compose 🚀</p>
     <p>👯 I’m looking to work with and learn from other developers 💻</p>
     <p>🥅 Goal: Contribute more to Open Source projects 🥅</p>
-    <p>⚡ Fun fact: I love longboarding🛹 and gaming 🎮</p>
 </span>
 
 </div>
