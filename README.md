@@ -25,8 +25,7 @@
     
 <span style="font-size:larger;" align = 'center'>
     <p>Welcome to my GitHub profile! <br/>I am Roshad,  <b>Software Developer</b> living in NJ.</p>
-    <p>I love all things tech and software, and am specialized in Android📱. 
-      I longboard🛹 around the concrete jungle of NY🗽, and trails in NJ🏡, love to play video games🎮 and I'm also an amauter guitarist🎸.
+    <p>I love all things tech and software, but I also love to longboard🛹 around the concrete jungle of NY🗽,<br /> play video games🎮 and I'm an amauter guitarist🎸.
     </p>
 </span>
 <div style= "display: flex">
