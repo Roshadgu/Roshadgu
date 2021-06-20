@@ -21,18 +21,19 @@
 
 <div>
     
-<h2>About Me: </h2>
+<h2 align='center'>About Me: </h2>
     
-<p>Welcome to my GitHub profile! <br/>I am Roshad,  <b>Software Developer</b> living in NJ.</p>
-<p>I love all things tech and software, and am specialized in Android📱. 
-  I longboard🛹 around the concrete jungle of NY🗽, and trails in NJ🏡, love to play video games🎮 and I'm also an amauter guitarist🎸.
-</p>
-
+<span style="font-size:larger;" align = 'center'>
+    <p>Welcome to my GitHub profile! <br/>I am Roshad,  <b>Software Developer</b> living in NJ.</p>
+    <p>I love all things tech and software, and am specialized in Android📱. 
+      I longboard🛹 around the concrete jungle of NY🗽, and trails in NJ🏡, love to play video games🎮 and I'm also an amauter guitarist🎸.
+    </p>
+</span>
 <div style= "display: flex">
 
 <br/>
 
-<span style="font-size:larger;">
+<span style="font-size:larger;" align = 'center'>
     <p>🎓 BS Degree in Computer Science 🎓</p>
     <p>🤔 I’m currently learning React and Jetpack Compose 🚀</p>
     <p>👯 I’m looking to work with and learn from other developers 💻</p>
@@ -44,7 +45,7 @@
 <br/>
 
 <div align='center'>
-<h2 align ='left'>🧰Languages and Tools</h2>
+<h2 align ='center'>🧰Languages and Tools</h2>
 </br>
 <img alt="Kotlin" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Java" width="50px" src="https://img.icons8.com/ios-filled/50/000000/java-coffee-cup-logo--v1.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -63,11 +64,11 @@
 <img alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-
+ </br>
   <div align='center'>
- 
+
       
-  <h2 align="left">📈 GitHub Stats</h2>
+  <h2 align="center">📈 GitHub Stats</h2>
   <a href="https://github.com/roshadgu/roshadgu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshadgu&amp;title_color=24292e&amp;text_color=24292e&amp;icon_color=24292e&amp;bg_color=ffffff"/></a>
   <a href="https://github.com/roshadgu/roshadgu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=roshadgu&show_icons=true&hide_border=true"/></a><br/>  
       
