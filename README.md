@@ -67,7 +67,7 @@
   <div>
 
       
-  <h2 align="center">📈 GitHub Stats</h2>
+  <h2>📈 GitHub Stats</h2>
   <a href="https://github.com/roshadgu/roshadgu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshadgu&amp;title_color=24292e&amp;text_color=24292e&amp;icon_color=24292e&amp;bg_color=ffffff"/></a>
   <a href="https://github.com/roshadgu/roshadgu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=roshadgu&show_icons=true&hide_border=true"/></a><br/>  
       
