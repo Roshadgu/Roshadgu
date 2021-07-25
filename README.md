@@ -1,15 +1,15 @@
 <div>
-    <h1 align='center'> Hi👋! I'm Roshad</h1>
-    <h3 align='center'> Android & Front-End Developer</u></h4>
-  <h3 align='center'>Connect with me:</h3>
-  <p align='center'>
+    <h1> Hi👋! I'm Roshad</h1>
+    <h3> Android & Front-End Developer</u></h4>
+  <h3>Connect with me:</h3>
+  
   <a href="http://roshadguerrier.com"><img height="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/roshadgu"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/roshadgu/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>&nbsp;&nbsp;
  
 </div>
 
-<div align='center'>
+<div>
 
 [![Website](http://img.shields.io/website?label=roshadguerrier.com&style=for-the-badge&url=http%3A%2F%2Froshadguerrier.com)](http://roshadguerrier.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/roshadgu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Froshadgu&screen_name=roshadgu)
@@ -21,9 +21,9 @@
 
 <div>
     
-<h2 align='center'>About Me: </h2>
+<h2>About Me: </h2>
     
-<span align = 'center'>
+<span>
     <p>Welcome to my GitHub profile! <br/>I am Roshad,  <b>Software Developer</b> living in NJ.</p>
     <p>I love all things tech and software, but I also love to longboard🛹 around the concrete jungle of NY🗽,<br /> play video games🎮 and I'm an amauter guitarist🎸.
     </p>
@@ -32,7 +32,7 @@
 
 <br/>
 
-<span style="font-size:larger;" align = 'center'>
+<span style="font-size:larger;">
     <p>🎓 BS Degree in Computer Science 🎓</p>
     <p>🤔 I’m currently learning React and Jetpack Compose 🚀</p>
     <p>👯 I’m looking to work with and learn from other developers 💻</p>
@@ -43,8 +43,8 @@
 <!-- ABOUT:END -->
 <br/>
 
-<div align='center'>
-<h2 align ='center'>🧰Languages and Tools</h2>
+<div>
+<h2>🧰Languages and Tools</h2>
 </br>
 <img alt="Kotlin" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Java" width="50px" src="https://img.icons8.com/ios-filled/50/000000/java-coffee-cup-logo--v1.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -64,7 +64,7 @@
 <img alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
  </br>
-  <div align='center'>
+  <div>
 
       
   <h2 align="center">📈 GitHub Stats</h2>
