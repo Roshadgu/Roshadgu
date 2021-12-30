@@ -24,7 +24,7 @@
 <h2>About Me: </h2>
     
 <span>
-    <p>Welcome to my GitHub profile! <br/>I am Roshad,  <b>Software Developer</b> living in NJ.</p>
+    <p>Welcome to my GitHub profile! <br/>I am Roshad,  <b>Software Developer</b></p>
     <p>I love all things tech and software, but I also love to longboard🛹 around the concrete jungle of NY🗽,<br /> play video games🎮 and I'm an amauter guitarist🎸.
     </p>
 </span>
