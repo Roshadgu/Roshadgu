@@ -6,7 +6,7 @@ Mobile Developer / Front-End Developer
 
 I love all things tech and software, but I also love to longboard🛹 around the concrete jungle of NY🗽, play video games🎮 and I'm an amateur guitarist🎸.
 
-*   🌍  I'm based in New York
+*   🌍  I'm based in New Jersey
 *   ✉️  You can contact me at [roshadgu@gmail.com](mailto:roshadgu@gmail.com)
 *   🤝  I'm open to collaborating on exciting and intersting projects
 *   ⚡  Avid anime watcher, reader, gamer and EV enthusiast.
