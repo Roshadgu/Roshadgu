@@ -1,7 +1,7 @@
 Hi 👋 My name is Roshad Guerrier
 ================================
 
-Mobile Developer/Front-End Developer
+Mobile Developer / Front-End Developer
 ----------------
 
 I love all things tech and software, but I also love to longboard🛹 around the concrete jungle of NY🗽, play video games🎮 and I'm an amateur guitarist🎸.
