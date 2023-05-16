@@ -1,4 +1,4 @@
-Hi 👋 My name is Roshad Guerrier
+Hi 👋 My name is Roshad
 ================================
 
 Mobile Developer / Front-End Developer
